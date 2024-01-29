@@ -4,4 +4,8 @@ public class MathOperation {
      return n/m;
  }
 
+ public static int multiplication(int n, int m) {
+     return n * m;
+ }
+
 }

@@ -13,4 +13,8 @@ public class MathOperation {
      return n+m;
  }
 
+ public static int sub(int n, int m) {
+     return n-m;
+ }
+
 }

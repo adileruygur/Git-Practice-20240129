@@ -8,4 +8,9 @@ public class MathOperation {
      return n * m;
  }
 
+ public static int add(int n, int m){
+
+     return n+m;
+ }
+
 }
